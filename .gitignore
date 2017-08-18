@@ -8,7 +8,7 @@
 *.userprefs
 
 # Visual Studio 2015 cache/options directory
-.vs/
+*.vs/
 
 # Build results
 [Dd]ebug/
